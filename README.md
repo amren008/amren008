@@ -17,10 +17,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -65,22 +61,6 @@
 - OAuth login + GitHub integration
 - Live build logs, status tracking
 - Auto TLS, zero-config deploys
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="mailto:amren.m.006@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/email-amren.m.006@gmail.com-red?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/amarendra008/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-Amren-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="https://x.com/OgAmren" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/x.com/@OgAmren-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-</p>
 
 ---
 
