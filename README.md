@@ -65,26 +65,32 @@
 
 ## 📌 Featured Projects
 
-### 🎥 **Real-time Meet App**
-> Google Meet-style video chat using WebRTC + PeerJS, built with Express.js backend  
-⚙️ *React, Tailwind, Express, Supabase, Google OAuth, WebRTC*
+### 🎥 Real-time Meet App  
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
 
-### ⚙️ **Deployment Platform**
-> Self-hosted Vercel-style app deployment with dynamic routing and build pipelines  
-⚙️ *Docker, AWS, PostgreSQL, Express.js, Traefik*
+> A video conferencing app inspired by Google Meet. Uses WebRTC and PeerJS for real-time video/audio, with Supabase for authentication and signaling.
 
-### 🏡 **Rental Listings Bot**
-> Zip-code-based Discord bot that scrapes and filters housing listings  
-⚙️ *Python, Redis, Supabase, Express API, Discord SDK*
+**Tech Stack**: React, Tailwind CSS, Supabase, Express.js, WebRTC, Google OAuth  
+**Planned Features**:
+- 🎛️ Host controls (mute, kick, manage participants)
+- 🧼 Better UI/UX and responsiveness
+- 🐞 Fix bugs related to participant sync and media toggles
+- 🔄 Real-time chat updates and auto-refreshless grid changes
 
 ---
 
-## 📈 GitHub Stats
+### ⚙️ Self-Hosted Deployment Platform  
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="47%" />
-</p>
+> A mini Vercel-style app platform for building, deploying, and routing containerized apps on subdomains.
+
+**Tech Stack**: Docker, AWS, PostgreSQL, Express.js, Traefik  
+**Planned Features**:
+- 🖥️ Frontend dashboard to view & manage deployments
+- 🔐 GitHub/GitLab integration and Google OAuth
+- 🔧 Project-based build environments
+- 🛰️ Subdomain routing for each deployment
+- 📦 Vite + React optimized preview serving
 
 ---
 
@@ -97,5 +103,4 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=React+is+my+happy+place+%F0%9F%8C%8C;Supabase+%2B+Express+%3D+Power+Stack+%F0%9F%A7%AA;Let's+build+cool+things+together+%F0%9F%92%BB" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=React+is+my+happy+place+%F0%9F%8C%8C;Supabase+%2B+Express+%3D+Pow
