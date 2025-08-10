@@ -40,15 +40,18 @@
 
 ## 📌 Featured Projects
 
-### 🎥 Real-time Meet App <img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square" />
-> A real-time video chat app built with WebRTC + Supabase. Auth handled by Google OAuth. Peer-to-peer communication powered by PeerJS and a Node/Express backend.
+### 🐦 Tweetly <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+> An AI-powered tweet generator that helps you turn your daily progress into clean, engaging tweets. Built for developers, students, and makers who want to build in public — effortlessly.
 
-🔧 **Stack**: React, Tailwind CSS, WebRTC, PeerJS, Supabase, Express, Google OAuth  
-🛠️ **What’s next**:
-- Host controls (kick/mute participants)
-- Smooth real-time UI updates (no refresh needed)
-- Better UX and mobile responsiveness
-- Bug fixes for stream/audio toggling
+🔧 **Stack**: React, Tailwind CSS, Supabase, Express, OpenRouter, TypeScript  
+🌐 **Live**: [usetweetly.vercel.app](https://usetweetly.vercel.app)
+
+🚀 **Features**:
+- Generate tweets based on tone and length preferences
+- AI-powered phrasing for professional, funny, or sarcastic output
+- Secure login with personal tweet history saved to your account
+- Smooth UX with animations, clipboard copy, and instant feedback
+- Hosted with Vercel (frontend) and Render (backend)
 
 ---
 
